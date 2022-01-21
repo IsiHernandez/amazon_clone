@@ -1,0 +1,83 @@
+main fieldset {
+    width: 400px;
+    border: 2px solid rgb(240, 237, 237);
+    padding: 0 20px;
+    font-size: 13px;
+    color: rgb(110, 108, 108)
+}
+
+.forgot {
+    padding-left: 180px;
+    color: rgb(57, 57, 200);
+}
+
+fieldset p:nth-child(1) {
+    font-size: 30px;
+
+}
+
+.help {
+    padding-top: 15px;
+    padding-left: 30px;
+    color: rgb(71, 71, 199);
+}
+
+li {
+    list-style-type: none;
+}
+
+.new {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #000;
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+    margin-top: 15px;
+    margin-left: 25px;
+    color: rgb(155, 155, 155);
+}
+
+#between {
+    background: rgb(255, 255, 255);
+    padding: 0 10px;
+
+}
+
+#account {
+    background-color: rgb(233, 231, 231) !important;
+    width: 380px;
+    margin-left: 10px;
+    padding: 4px 0;
+    margin-bottom: 50px;
+    border-color: rgb(190, 187, 187);
+    font-size: 13px;
+}
+
+main {
+    border-bottom: 2px solid rgb(195, 195, 195);
+    margin-top: 220px;
+    margin-bottom: 30px;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    gap: 23px;
+    color:rgb(71, 71, 199)
+}
+
+footer {
+    font-size: 13px;
+}
+
+footer p {
+    text-align: center;
+    padding-left: 55px;
+    color:rgb(131, 130, 130)
+}
+
+.btn1 {
+    width: 350px;
+    margin-left: 4px;
+}
+
